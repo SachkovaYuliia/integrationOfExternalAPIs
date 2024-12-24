@@ -1,0 +1,13 @@
+.venv/
+venv/
+
+.env/
+.env
+
+.idea/
+.vscode/
+*.log
+
+.DS_Store
+
+.pytest_cache/
